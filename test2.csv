@@ -1,0 +1,1001 @@
+,order_id,date,item_name
+0,1,07-03-2022,Aalopuri
+1,2,8/23/2022,Vadapav
+2,3,11/20/2022,Vadapav
+3,4,02-03-2023,Sugarcane juice
+4,5,10-02-2022,Sugarcane juice
+5,6,11/14/2022,Vadapav
+6,7,05-03-2022,Sugarcane juice
+7,8,12/22/2022,Panipuri
+8,9,06-10-2022,Panipuri
+9,10,9/16/2022,Panipuri
+10,11,12-01-2022,Frankie
+11,12,07-12-2022,Vadapav
+12,13,12/22/2022,Panipuri
+13,14,11/25/2022,Frankie
+14,15,02-03-2023,Aalopuri
+15,16,4/14/2022,Sandwich
+16,17,10/16/2022,Panipuri
+17,18,11-05-2022,Panipuri
+18,19,8/22/2022,Panipuri
+19,20,9/15/2022,Cold coffee
+20,21,12/21/2022,Cold coffee
+21,22,10-04-2022,Sugarcane juice
+22,23,5/26/2022,Sandwich
+23,24,02-11-2023,Sugarcane juice
+24,25,8/31/2022,Sandwich
+25,26,8/18/2022,Sugarcane juice
+26,27,10-12-2022,Cold coffee
+27,28,01-06-2023,Cold coffee
+28,29,02-10-2023,Sugarcane juice
+29,30,1/28/2023,Frankie
+30,31,9/14/2022,Cold coffee
+31,32,05-06-2022,Aalopuri
+32,33,02-05-2023,Aalopuri
+33,34,02-04-2023,Frankie
+34,35,5/22/2022,Vadapav
+35,36,07-02-2022,Cold coffee
+36,37,01-05-2023,Frankie
+37,38,03-08-2023,Panipuri
+38,39,5/14/2022,Vadapav
+39,40,02-05-2023,Sandwich
+40,41,11/13/2022,Cold coffee
+41,42,05-09-2022,Aalopuri
+42,43,5/26/2022,Vadapav
+43,44,8/28/2022,Cold coffee
+44,45,8/15/2022,Sugarcane juice
+45,46,05-07-2022,Vadapav
+46,47,07-10-2022,Sandwich
+47,48,2/23/2023,Sandwich
+48,49,11-06-2022,Frankie
+49,50,11-02-2022,Vadapav
+50,51,5/16/2022,Frankie
+51,52,3/16/2023,Sugarcane juice
+52,53,7/26/2022,Aalopuri
+53,54,12/28/2022,Panipuri
+54,55,05-07-2022,Sandwich
+55,56,11/23/2022,Panipuri
+56,57,08-04-2022,Panipuri
+57,58,02-03-2023,Vadapav
+58,59,07-01-2022,Vadapav
+59,60,06-11-2022,Cold coffee
+60,61,12/25/2022,Vadapav
+61,62,10/17/2022,Sugarcane juice
+62,63,12-01-2022,Sandwich
+63,64,12-09-2022,Cold coffee
+64,65,7/25/2022,Aalopuri
+65,66,04-05-2022,Frankie
+66,67,5/15/2022,Aalopuri
+67,68,12/17/2022,Cold coffee
+68,69,01-10-2023,Vadapav
+69,70,05-09-2022,Cold coffee
+70,71,12-05-2022,Cold coffee
+71,72,03-09-2023,Frankie
+72,73,7/29/2022,Panipuri
+73,74,8/15/2022,Cold coffee
+74,75,02-02-2023,Cold coffee
+75,76,8/17/2022,Vadapav
+76,77,02-04-2023,Sugarcane juice
+77,78,10-01-2022,Vadapav
+78,79,11-05-2022,Panipuri
+79,80,5/24/2022,Frankie
+80,81,11/19/2022,Frankie
+81,82,7/17/2022,Frankie
+82,83,11/13/2022,Frankie
+83,84,03-03-2023,Panipuri
+84,85,8/19/2022,Aalopuri
+85,86,03-09-2023,Aalopuri
+86,87,5/29/2022,Aalopuri
+87,88,07-07-2022,Cold coffee
+88,89,12/23/2022,Aalopuri
+89,90,10/29/2022,Vadapav
+90,91,3/22/2023,Cold coffee
+91,92,5/13/2022,Aalopuri
+92,93,07-03-2022,Cold coffee
+93,94,9/14/2022,Aalopuri
+94,95,05-12-2022,Sugarcane juice
+95,96,8/22/2022,Sandwich
+96,97,3/29/2023,Cold coffee
+97,98,12/24/2022,Vadapav
+98,99,09-11-2022,Sugarcane juice
+99,100,05-08-2022,Panipuri
+100,101,3/26/2023,Vadapav
+101,102,3/13/2023,Cold coffee
+102,103,3/14/2023,Cold coffee
+103,104,10/27/2022,Cold coffee
+104,105,1/25/2023,Panipuri
+105,106,2/25/2023,Frankie
+106,107,02-07-2023,Sandwich
+107,108,08-06-2022,Panipuri
+108,109,08-08-2022,Cold coffee
+109,110,11/16/2022,Panipuri
+110,111,09-04-2022,Sandwich
+111,112,2/24/2023,Sandwich
+112,113,12-12-2022,Aalopuri
+113,114,8/14/2022,Aalopuri
+114,115,01-12-2023,Aalopuri
+115,116,8/26/2022,Sugarcane juice
+116,117,03-09-2023,Frankie
+117,118,07-06-2022,Sandwich
+118,119,05-12-2022,Panipuri
+119,120,07-10-2022,Frankie
+120,121,8/26/2022,Cold coffee
+121,122,4/24/2022,Panipuri
+122,123,06-09-2022,Cold coffee
+123,124,10/14/2022,Sugarcane juice
+124,125,04-10-2022,Vadapav
+125,126,04-08-2022,Panipuri
+126,127,12-03-2022,Aalopuri
+127,128,08-07-2022,Vadapav
+128,129,10/19/2022,Panipuri
+129,130,12/28/2022,Sugarcane juice
+130,131,1/19/2023,Sandwich
+131,132,12-05-2022,Vadapav
+132,133,12/20/2022,Aalopuri
+133,134,7/17/2022,Aalopuri
+134,135,1/14/2023,Aalopuri
+135,136,8/24/2022,Aalopuri
+136,137,3/19/2023,Sugarcane juice
+137,138,09-01-2022,Sandwich
+138,139,2/26/2023,Frankie
+139,140,06-12-2022,Frankie
+140,141,6/15/2022,Aalopuri
+141,142,12/30/2022,Sugarcane juice
+142,143,9/18/2022,Frankie
+143,144,11/17/2022,Panipuri
+144,145,10-09-2022,Sandwich
+145,146,10/28/2022,Frankie
+146,147,5/17/2022,Panipuri
+147,148,3/19/2023,Sandwich
+148,149,08-09-2022,Sandwich
+149,150,1/30/2023,Cold coffee
+150,151,07-10-2022,Frankie
+151,152,10/24/2022,Cold coffee
+152,153,7/21/2022,Panipuri
+153,154,12/13/2022,Vadapav
+154,155,02-07-2023,Sugarcane juice
+155,156,3/25/2023,Panipuri
+156,157,2/24/2023,Frankie
+157,158,5/16/2022,Aalopuri
+158,159,10-03-2022,Sugarcane juice
+159,160,7/23/2022,Vadapav
+160,161,1/19/2023,Sugarcane juice
+161,162,05-07-2022,Aalopuri
+162,163,01-06-2023,Frankie
+163,164,08-10-2022,Sugarcane juice
+164,165,01-05-2023,Sandwich
+165,166,06-01-2022,Panipuri
+166,167,2/23/2023,Cold coffee
+167,168,4/19/2022,Sandwich
+168,169,6/20/2022,Vadapav
+169,170,2/13/2023,Aalopuri
+170,171,03-02-2023,Vadapav
+171,172,8/27/2022,Sugarcane juice
+172,173,1/20/2023,Cold coffee
+173,174,09-03-2022,Aalopuri
+174,175,10/17/2022,Frankie
+175,176,08-04-2022,Panipuri
+176,177,7/21/2022,Panipuri
+177,178,12-09-2022,Aalopuri
+178,179,03-03-2023,Sugarcane juice
+179,180,12-01-2022,Vadapav
+180,181,06-09-2022,Cold coffee
+181,182,07-02-2022,Cold coffee
+182,183,07-10-2022,Sugarcane juice
+183,184,01-03-2023,Cold coffee
+184,185,1/13/2023,Sugarcane juice
+185,186,3/15/2023,Frankie
+186,187,10-11-2022,Aalopuri
+187,188,12/28/2022,Panipuri
+188,189,02-08-2023,Vadapav
+189,190,4/26/2022,Cold coffee
+190,191,5/20/2022,Sugarcane juice
+191,192,10/26/2022,Vadapav
+192,193,02-05-2023,Cold coffee
+193,194,12/15/2022,Vadapav
+194,195,4/23/2022,Sandwich
+195,196,6/25/2022,Sandwich
+196,197,11-08-2022,Panipuri
+197,198,01-05-2023,Frankie
+198,199,02-01-2023,Frankie
+199,200,12/25/2022,Cold coffee
+200,201,6/30/2022,Panipuri
+201,202,9/21/2022,Aalopuri
+202,203,04-11-2022,Vadapav
+203,204,10/24/2022,Cold coffee
+204,205,10/17/2022,Vadapav
+205,206,7/27/2022,Aalopuri
+206,207,2/20/2023,Cold coffee
+207,208,8/26/2022,Cold coffee
+208,209,12-04-2022,Aalopuri
+209,210,01-02-2023,Sugarcane juice
+210,211,4/18/2022,Aalopuri
+211,212,05-05-2022,Cold coffee
+212,213,9/29/2022,Vadapav
+213,214,12-03-2022,Sugarcane juice
+214,215,12-10-2022,Sugarcane juice
+215,216,03-07-2023,Panipuri
+216,217,3/23/2023,Cold coffee
+217,218,12/23/2022,Cold coffee
+218,219,10-01-2022,Aalopuri
+219,220,5/13/2022,Sugarcane juice
+220,221,3/26/2023,Sandwich
+221,222,09-11-2022,Sandwich
+222,223,9/21/2022,Panipuri
+223,224,3/23/2023,Sugarcane juice
+224,225,3/16/2023,Frankie
+225,226,12-12-2022,Aalopuri
+226,227,11/17/2022,Cold coffee
+227,228,11-05-2022,Panipuri
+228,229,12/15/2022,Panipuri
+229,230,4/16/2022,Frankie
+230,231,4/16/2022,Sugarcane juice
+231,232,4/23/2022,Vadapav
+232,233,7/31/2022,Panipuri
+233,234,7/27/2022,Panipuri
+234,235,11/29/2022,Sandwich
+235,236,6/26/2022,Vadapav
+236,237,11-08-2022,Panipuri
+237,238,4/26/2022,Vadapav
+238,239,12-04-2022,Frankie
+239,240,12-11-2022,Sandwich
+240,241,06-06-2022,Sugarcane juice
+241,242,12/23/2022,Cold coffee
+242,243,11-12-2022,Panipuri
+243,244,11/22/2022,Sandwich
+244,245,10-03-2022,Vadapav
+245,246,11/16/2022,Vadapav
+246,247,10-03-2022,Sugarcane juice
+247,248,4/17/2022,Frankie
+248,249,10/26/2022,Sugarcane juice
+249,250,11/15/2022,Sugarcane juice
+250,251,12/21/2022,Cold coffee
+251,252,3/26/2023,Vadapav
+252,253,6/18/2022,Sugarcane juice
+253,254,10-09-2022,Cold coffee
+254,255,4/30/2022,Vadapav
+255,256,3/16/2023,Aalopuri
+256,257,01-03-2023,Sandwich
+257,258,09-06-2022,Vadapav
+258,259,11/18/2022,Sandwich
+259,260,09-10-2022,Sugarcane juice
+260,261,01-11-2023,Frankie
+261,262,03-05-2023,Vadapav
+262,263,6/19/2022,Panipuri
+263,264,7/18/2022,Sugarcane juice
+264,265,8/15/2022,Vadapav
+265,266,10-02-2022,Frankie
+266,267,03-05-2023,Vadapav
+267,268,02-05-2023,Cold coffee
+268,269,12/22/2022,Panipuri
+269,270,09-07-2022,Sandwich
+270,271,05-03-2022,Vadapav
+271,272,7/29/2022,Frankie
+272,273,8/15/2022,Panipuri
+273,274,01-04-2023,Sugarcane juice
+274,275,02-04-2023,Vadapav
+275,276,9/30/2022,Sugarcane juice
+276,277,12-08-2022,Cold coffee
+277,278,6/19/2022,Frankie
+278,279,9/14/2022,Vadapav
+279,280,10-09-2022,Panipuri
+280,281,08-09-2022,Sandwich
+281,282,5/16/2022,Vadapav
+282,283,07-02-2022,Panipuri
+283,284,1/29/2023,Frankie
+284,285,6/28/2022,Aalopuri
+285,286,12/14/2022,Vadapav
+286,287,08-06-2022,Aalopuri
+287,288,8/22/2022,Sandwich
+288,289,11/28/2022,Aalopuri
+289,290,05-03-2022,Panipuri
+290,291,1/27/2023,Frankie
+291,292,1/16/2023,Frankie
+292,293,4/21/2022,Panipuri
+293,294,9/23/2022,Aalopuri
+294,295,7/21/2022,Sandwich
+295,296,02-06-2023,Panipuri
+296,297,4/30/2022,Sandwich
+297,298,7/19/2022,Sugarcane juice
+298,299,7/22/2022,Aalopuri
+299,300,6/27/2022,Aalopuri
+300,301,1/28/2023,Panipuri
+301,302,3/21/2023,Aalopuri
+302,303,07-02-2022,Sugarcane juice
+303,304,5/28/2022,Vadapav
+304,305,03-05-2023,Panipuri
+305,306,03-03-2023,Cold coffee
+306,307,2/13/2023,Vadapav
+307,308,12/17/2022,Sandwich
+308,309,10/14/2022,Sandwich
+309,310,4/25/2022,Vadapav
+310,311,7/31/2022,Frankie
+311,312,12/28/2022,Cold coffee
+312,313,4/19/2022,Cold coffee
+313,314,2/27/2023,Frankie
+314,315,2/20/2023,Cold coffee
+315,316,11-02-2022,Frankie
+316,317,03-10-2023,Aalopuri
+317,318,12/21/2022,Aalopuri
+318,319,6/30/2022,Frankie
+319,320,3/18/2023,Sugarcane juice
+320,321,02-08-2023,Frankie
+321,322,05-05-2022,Cold coffee
+322,323,12/29/2022,Aalopuri
+323,324,7/18/2022,Sugarcane juice
+324,325,03-02-2023,Aalopuri
+325,326,05-03-2022,Sandwich
+326,327,11/29/2022,Frankie
+327,328,6/16/2022,Vadapav
+328,329,01-10-2023,Panipuri
+329,330,9/22/2022,Panipuri
+330,331,8/21/2022,Panipuri
+331,332,2/17/2023,Aalopuri
+332,333,10/30/2022,Sugarcane juice
+333,334,04-04-2022,Cold coffee
+334,335,10/24/2022,Cold coffee
+335,336,09-03-2022,Sugarcane juice
+336,337,10/15/2022,Aalopuri
+337,338,05-06-2022,Sugarcane juice
+338,339,2/16/2023,Sugarcane juice
+339,340,06-02-2022,Cold coffee
+340,341,3/19/2023,Frankie
+341,342,03-11-2023,Vadapav
+342,343,1/18/2023,Sugarcane juice
+343,344,5/13/2022,Cold coffee
+344,345,05-09-2022,Panipuri
+345,346,1/31/2023,Cold coffee
+346,347,6/24/2022,Frankie
+347,348,9/19/2022,Vadapav
+348,349,8/17/2022,Panipuri
+349,350,9/21/2022,Cold coffee
+350,351,07-08-2022,Frankie
+351,352,5/25/2022,Frankie
+352,353,5/18/2022,Vadapav
+353,354,1/16/2023,Panipuri
+354,355,3/15/2023,Cold coffee
+355,356,5/26/2022,Sugarcane juice
+356,357,9/21/2022,Sandwich
+357,358,10/27/2022,Aalopuri
+358,359,8/27/2022,Aalopuri
+359,360,10-06-2022,Cold coffee
+360,361,6/30/2022,Sandwich
+361,362,12/30/2022,Sugarcane juice
+362,363,05-09-2022,Frankie
+363,364,10-11-2022,Cold coffee
+364,365,07-08-2022,Panipuri
+365,366,11/30/2022,Sugarcane juice
+366,367,08-10-2022,Panipuri
+367,368,8/31/2022,Cold coffee
+368,369,07-03-2022,Sandwich
+369,370,5/28/2022,Panipuri
+370,371,10/18/2022,Vadapav
+371,372,11/19/2022,Frankie
+372,373,05-08-2022,Sugarcane juice
+373,374,7/24/2022,Frankie
+374,375,11/17/2022,Panipuri
+375,376,12-04-2022,Frankie
+376,377,5/20/2022,Sugarcane juice
+377,378,4/24/2022,Vadapav
+378,379,2/15/2023,Cold coffee
+379,380,10/20/2022,Sandwich
+380,381,2/26/2023,Vadapav
+381,382,8/16/2022,Cold coffee
+382,383,05-06-2022,Aalopuri
+383,384,10/22/2022,Sugarcane juice
+384,385,4/25/2022,Vadapav
+385,386,11/23/2022,Frankie
+386,387,3/17/2023,Sugarcane juice
+387,388,10-09-2022,Sandwich
+388,389,12/22/2022,Sandwich
+389,390,6/18/2022,Sugarcane juice
+390,391,4/21/2022,Aalopuri
+391,392,9/18/2022,Aalopuri
+392,393,07-02-2022,Sugarcane juice
+393,394,04-03-2022,Sandwich
+394,395,1/31/2023,Sandwich
+395,396,10/31/2022,Frankie
+396,397,07-06-2022,Aalopuri
+397,398,1/13/2023,Panipuri
+398,399,6/24/2022,Panipuri
+399,400,03-04-2023,Cold coffee
+400,401,10-11-2022,Sugarcane juice
+401,402,3/19/2023,Frankie
+402,403,9/25/2022,Cold coffee
+403,404,11/26/2022,Frankie
+404,405,12/13/2022,Sugarcane juice
+405,406,10/13/2022,Cold coffee
+406,407,01-02-2023,Sugarcane juice
+407,408,10-05-2022,Vadapav
+408,409,9/15/2022,Aalopuri
+409,410,11/23/2022,Aalopuri
+410,411,11/20/2022,Panipuri
+411,412,03-09-2023,Sugarcane juice
+412,413,04-03-2022,Aalopuri
+413,414,1/21/2023,Cold coffee
+414,415,12-05-2022,Vadapav
+415,416,08-05-2022,Sandwich
+416,417,1/16/2023,Panipuri
+417,418,11-12-2022,Cold coffee
+418,419,10-08-2022,Sugarcane juice
+419,420,1/30/2023,Frankie
+420,421,3/24/2023,Cold coffee
+421,422,08-02-2022,Cold coffee
+422,423,10/21/2022,Frankie
+423,424,4/21/2022,Sugarcane juice
+424,425,8/17/2022,Panipuri
+425,426,1/20/2023,Frankie
+426,427,5/21/2022,Sandwich
+427,428,12/24/2022,Sugarcane juice
+428,429,9/19/2022,Cold coffee
+429,430,11-05-2022,Sandwich
+430,431,3/16/2023,Panipuri
+431,432,3/27/2023,Panipuri
+432,433,5/27/2022,Panipuri
+433,434,8/21/2022,Aalopuri
+434,435,05-08-2022,Sandwich
+435,436,01-05-2023,Frankie
+436,437,8/31/2022,Cold coffee
+437,438,6/20/2022,Cold coffee
+438,439,9/30/2022,Frankie
+439,440,11/28/2022,Aalopuri
+440,441,11-02-2022,Aalopuri
+441,442,8/22/2022,Sugarcane juice
+442,443,09-05-2022,Sugarcane juice
+443,444,9/28/2022,Frankie
+444,445,10/22/2022,Sandwich
+445,446,8/31/2022,Cold coffee
+446,447,1/17/2023,Frankie
+447,448,7/27/2022,Vadapav
+448,449,09-09-2022,Frankie
+449,450,5/20/2022,Sugarcane juice
+450,451,3/15/2023,Sugarcane juice
+451,452,12/25/2022,Frankie
+452,453,10/20/2022,Sandwich
+453,454,03-07-2023,Sandwich
+454,455,03-01-2023,Cold coffee
+455,456,12/31/2022,Cold coffee
+456,457,10/16/2022,Cold coffee
+457,458,09-12-2022,Sugarcane juice
+458,459,06-08-2022,Vadapav
+459,460,11/20/2022,Aalopuri
+460,461,7/22/2022,Sugarcane juice
+461,462,4/24/2022,Vadapav
+462,463,06-11-2022,Sandwich
+463,464,10/18/2022,Sugarcane juice
+464,465,1/15/2023,Sugarcane juice
+465,466,01-11-2023,Panipuri
+466,467,10/17/2022,Aalopuri
+467,468,09-08-2022,Panipuri
+468,469,5/15/2022,Sandwich
+469,470,9/29/2022,Vadapav
+470,471,2/13/2023,Panipuri
+471,472,01-11-2023,Panipuri
+472,473,09-04-2022,Sandwich
+473,474,8/28/2022,Sugarcane juice
+474,475,2/24/2023,Cold coffee
+475,476,02-02-2023,Aalopuri
+476,477,2/13/2023,Sandwich
+477,478,12/27/2022,Sugarcane juice
+478,479,2/13/2023,Sandwich
+479,480,10-02-2022,Vadapav
+480,481,10/29/2022,Sugarcane juice
+481,482,1/31/2023,Aalopuri
+482,483,4/27/2022,Panipuri
+483,484,3/21/2023,Cold coffee
+484,485,2/26/2023,Aalopuri
+485,486,2/14/2023,Vadapav
+486,487,5/27/2022,Sandwich
+487,488,9/21/2022,Cold coffee
+488,489,02-03-2023,Frankie
+489,490,12/26/2022,Cold coffee
+490,491,5/31/2022,Vadapav
+491,492,07-11-2022,Sandwich
+492,493,10-02-2022,Cold coffee
+493,494,1/14/2023,Cold coffee
+494,495,10/20/2022,Aalopuri
+495,496,11-07-2022,Cold coffee
+496,497,1/25/2023,Sandwich
+497,498,6/16/2022,Frankie
+498,499,7/27/2022,Sandwich
+499,500,04-08-2022,Vadapav
+500,501,08-09-2022,Sugarcane juice
+501,502,01-04-2023,Panipuri
+502,503,11-04-2022,Aalopuri
+503,504,12-09-2022,Cold coffee
+504,505,02-12-2023,Frankie
+505,506,12/26/2022,Cold coffee
+506,507,12/14/2022,Aalopuri
+507,508,12-10-2022,Sandwich
+508,509,10/26/2022,Vadapav
+509,510,04-04-2022,Sandwich
+510,511,08-02-2022,Panipuri
+511,512,01-11-2023,Panipuri
+512,513,7/16/2022,Cold coffee
+513,514,8/24/2022,Cold coffee
+514,515,11-02-2022,Sandwich
+515,516,9/22/2022,Sugarcane juice
+516,517,07-02-2022,Panipuri
+517,518,12-09-2022,Aalopuri
+518,519,11/25/2022,Cold coffee
+519,520,04-03-2022,Panipuri
+520,521,1/27/2023,Panipuri
+521,522,12/29/2022,Panipuri
+522,523,11-03-2022,Frankie
+523,524,05-01-2022,Aalopuri
+524,525,05-04-2022,Vadapav
+525,526,07-04-2022,Sandwich
+526,527,01-06-2023,Sugarcane juice
+527,528,07-01-2022,Sugarcane juice
+528,529,5/15/2022,Aalopuri
+529,530,7/27/2022,Panipuri
+530,531,10-04-2022,Cold coffee
+531,532,3/27/2023,Panipuri
+532,533,02-05-2023,Frankie
+533,534,5/16/2022,Vadapav
+534,535,09-05-2022,Sandwich
+535,536,03-01-2023,Sugarcane juice
+536,537,1/25/2023,Panipuri
+537,538,06-05-2022,Panipuri
+538,539,09-07-2022,Panipuri
+539,540,5/27/2022,Vadapav
+540,541,7/30/2022,Panipuri
+541,542,08-04-2022,Sugarcane juice
+542,543,04-10-2022,Aalopuri
+543,544,12/14/2022,Sandwich
+544,545,01-01-2023,Sandwich
+545,546,07-09-2022,Aalopuri
+546,547,5/14/2022,Cold coffee
+547,548,3/29/2023,Cold coffee
+548,549,4/15/2022,Sugarcane juice
+549,550,11/15/2022,Cold coffee
+550,551,7/30/2022,Sugarcane juice
+551,552,09-12-2022,Sugarcane juice
+552,553,11-11-2022,Panipuri
+553,554,03-09-2023,Panipuri
+554,555,4/16/2022,Sandwich
+555,556,2/27/2023,Vadapav
+556,557,6/30/2022,Sandwich
+557,558,10-01-2022,Panipuri
+558,559,8/31/2022,Cold coffee
+559,560,12-10-2022,Sugarcane juice
+560,561,6/13/2022,Panipuri
+561,562,08-09-2022,Frankie
+562,563,10/13/2022,Frankie
+563,564,9/27/2022,Cold coffee
+564,565,9/27/2022,Panipuri
+565,566,7/19/2022,Frankie
+566,567,10/16/2022,Cold coffee
+567,568,12/29/2022,Panipuri
+568,569,01-02-2023,Cold coffee
+569,570,9/15/2022,Sugarcane juice
+570,571,11/28/2022,Sugarcane juice
+571,572,04-02-2022,Sandwich
+572,573,09-07-2022,Frankie
+573,574,10/22/2022,Aalopuri
+574,575,12/24/2022,Vadapav
+575,576,3/23/2023,Panipuri
+576,577,09-06-2022,Cold coffee
+577,578,6/30/2022,Frankie
+578,579,4/27/2022,Panipuri
+579,580,07-01-2022,Panipuri
+580,581,4/23/2022,Sugarcane juice
+581,582,05-12-2022,Aalopuri
+582,583,5/31/2022,Frankie
+583,584,12-04-2022,Cold coffee
+584,585,03-05-2023,Vadapav
+585,586,5/22/2022,Sandwich
+586,587,04-09-2022,Aalopuri
+587,588,6/16/2022,Frankie
+588,589,8/25/2022,Cold coffee
+589,590,3/27/2023,Panipuri
+590,591,10-01-2022,Sandwich
+591,592,12-04-2022,Sugarcane juice
+592,593,2/16/2023,Sugarcane juice
+593,594,1/20/2023,Frankie
+594,595,2/22/2023,Frankie
+595,596,4/26/2022,Cold coffee
+596,597,11/30/2022,Panipuri
+597,598,08-02-2022,Cold coffee
+598,599,10-03-2022,Frankie
+599,600,12/24/2022,Panipuri
+600,601,11-01-2022,Aalopuri
+601,602,8/27/2022,Aalopuri
+602,603,8/31/2022,Vadapav
+603,604,09-08-2022,Frankie
+604,605,04-04-2022,Cold coffee
+605,606,04-09-2022,Cold coffee
+606,607,12/15/2022,Vadapav
+607,608,2/28/2023,Aalopuri
+608,609,02-07-2023,Aalopuri
+609,610,05-08-2022,Frankie
+610,611,6/25/2022,Aalopuri
+611,612,02-06-2023,Aalopuri
+612,613,06-10-2022,Vadapav
+613,614,12/19/2022,Vadapav
+614,615,8/14/2022,Sandwich
+615,616,7/15/2022,Vadapav
+616,617,6/28/2022,Sugarcane juice
+617,618,04-08-2022,Frankie
+618,619,09-09-2022,Sugarcane juice
+619,620,9/14/2022,Panipuri
+620,621,2/13/2023,Aalopuri
+621,622,12/14/2022,Panipuri
+622,623,04-02-2022,Cold coffee
+623,624,03-08-2023,Sandwich
+624,625,6/17/2022,Sandwich
+625,626,02-01-2023,Cold coffee
+626,627,6/22/2022,Sugarcane juice
+627,628,05-02-2022,Cold coffee
+628,629,1/20/2023,Sugarcane juice
+629,630,5/27/2022,Frankie
+630,631,07-01-2022,Cold coffee
+631,632,10/28/2022,Panipuri
+632,633,5/24/2022,Cold coffee
+633,634,7/26/2022,Panipuri
+634,635,02-06-2023,Vadapav
+635,636,4/26/2022,Cold coffee
+636,637,5/14/2022,Aalopuri
+637,638,8/20/2022,Cold coffee
+638,639,1/26/2023,Vadapav
+639,640,01-04-2023,Sandwich
+640,641,02-09-2023,Vadapav
+641,642,05-09-2022,Cold coffee
+642,643,10/20/2022,Sugarcane juice
+643,644,02-03-2023,Panipuri
+644,645,7/26/2022,Sandwich
+645,646,8/30/2022,Vadapav
+646,647,06-05-2022,Vadapav
+647,648,5/27/2022,Sandwich
+648,649,11-05-2022,Frankie
+649,650,04-07-2022,Sandwich
+650,651,07-11-2022,Sandwich
+651,652,5/21/2022,Cold coffee
+652,653,5/30/2022,Frankie
+653,654,03-04-2023,Vadapav
+654,655,6/30/2022,Sugarcane juice
+655,656,11/28/2022,Sandwich
+656,657,01-10-2023,Cold coffee
+657,658,10-10-2022,Aalopuri
+658,659,1/21/2023,Panipuri
+659,660,7/25/2022,Sandwich
+660,661,10-11-2022,Frankie
+661,662,2/15/2023,Panipuri
+662,663,02-05-2023,Sugarcane juice
+663,664,10/31/2022,Frankie
+664,665,05-06-2022,Aalopuri
+665,666,1/25/2023,Panipuri
+666,667,9/28/2022,Vadapav
+667,668,05-11-2022,Aalopuri
+668,669,3/18/2023,Sandwich
+669,670,07-05-2022,Panipuri
+670,671,10-09-2022,Sandwich
+671,672,11/24/2022,Cold coffee
+672,673,9/17/2022,Sandwich
+673,674,7/17/2022,Sugarcane juice
+674,675,4/17/2022,Sandwich
+675,676,05-04-2022,Frankie
+676,677,5/19/2022,Cold coffee
+677,678,5/23/2022,Aalopuri
+678,679,11-02-2022,Sandwich
+679,680,4/20/2022,Cold coffee
+680,681,12-09-2022,Frankie
+681,682,10-11-2022,Aalopuri
+682,683,08-12-2022,Frankie
+683,684,9/18/2022,Vadapav
+684,685,5/20/2022,Aalopuri
+685,686,11/25/2022,Cold coffee
+686,687,12/18/2022,Vadapav
+687,688,5/14/2022,Frankie
+688,689,8/13/2022,Vadapav
+689,690,10-05-2022,Vadapav
+690,691,04-01-2022,Sandwich
+691,692,1/13/2023,Frankie
+692,693,11/29/2022,Sugarcane juice
+693,694,4/22/2022,Panipuri
+694,695,8/24/2022,Panipuri
+695,696,2/23/2023,Sugarcane juice
+696,697,05-05-2022,Sugarcane juice
+697,698,11/26/2022,Panipuri
+698,699,09-09-2022,Cold coffee
+699,700,11/15/2022,Frankie
+700,701,7/19/2022,Sugarcane juice
+701,702,3/25/2023,Cold coffee
+702,703,11-01-2022,Panipuri
+703,704,8/14/2022,Sandwich
+704,705,10-07-2022,Sandwich
+705,706,02-05-2023,Frankie
+706,707,12/16/2022,Panipuri
+707,708,3/15/2023,Sandwich
+708,709,2/22/2023,Cold coffee
+709,710,3/15/2023,Sandwich
+710,711,10/30/2022,Aalopuri
+711,712,12/17/2022,Vadapav
+712,713,12-02-2022,Sugarcane juice
+713,714,12/14/2022,Sugarcane juice
+714,715,04-12-2022,Sandwich
+715,716,12-03-2022,Panipuri
+716,717,10-11-2022,Sugarcane juice
+717,718,12/28/2022,Aalopuri
+718,719,05-09-2022,Vadapav
+719,720,05-10-2022,Frankie
+720,721,8/13/2022,Panipuri
+721,722,9/14/2022,Vadapav
+722,723,2/16/2023,Cold coffee
+723,724,6/27/2022,Frankie
+724,725,07-04-2022,Vadapav
+725,726,09-11-2022,Panipuri
+726,727,8/25/2022,Aalopuri
+727,728,08-03-2022,Vadapav
+728,729,11/24/2022,Sandwich
+729,730,6/28/2022,Frankie
+730,731,03-09-2023,Frankie
+731,732,6/13/2022,Panipuri
+732,733,02-03-2023,Frankie
+733,734,10-07-2022,Frankie
+734,735,08-10-2022,Panipuri
+735,736,9/25/2022,Panipuri
+736,737,9/20/2022,Frankie
+737,738,03-01-2023,Sandwich
+738,739,06-06-2022,Aalopuri
+739,740,7/30/2022,Aalopuri
+740,741,7/16/2022,Aalopuri
+741,742,11/18/2022,Panipuri
+742,743,11-09-2022,Panipuri
+743,744,6/25/2022,Frankie
+744,745,09-11-2022,Aalopuri
+745,746,08-05-2022,Sugarcane juice
+746,747,1/14/2023,Cold coffee
+747,748,9/20/2022,Sandwich
+748,749,8/31/2022,Vadapav
+749,750,02-01-2023,Frankie
+750,751,9/16/2022,Vadapav
+751,752,06-04-2022,Panipuri
+752,753,6/26/2022,Sugarcane juice
+753,754,12/29/2022,Sugarcane juice
+754,755,01-02-2023,Aalopuri
+755,756,10/21/2022,Sugarcane juice
+756,757,12/25/2022,Sugarcane juice
+757,758,9/25/2022,Vadapav
+758,759,12/25/2022,Sugarcane juice
+759,760,11/14/2022,Sugarcane juice
+760,761,11-12-2022,Sandwich
+761,762,04-09-2022,Vadapav
+762,763,07-04-2022,Vadapav
+763,764,2/14/2023,Sandwich
+764,765,6/15/2022,Sandwich
+765,766,6/19/2022,Sandwich
+766,767,2/26/2023,Frankie
+767,768,01-12-2023,Sandwich
+768,769,06-07-2022,Frankie
+769,770,2/22/2023,Aalopuri
+770,771,8/15/2022,Panipuri
+771,772,3/20/2023,Cold coffee
+772,773,8/14/2022,Cold coffee
+773,774,3/15/2023,Vadapav
+774,775,3/27/2023,Sandwich
+775,776,02-07-2023,Frankie
+776,777,10/23/2022,Panipuri
+777,778,06-11-2022,Frankie
+778,779,1/16/2023,Sandwich
+779,780,11/27/2022,Sugarcane juice
+780,781,5/27/2022,Aalopuri
+781,782,12/16/2022,Aalopuri
+782,783,4/29/2022,Aalopuri
+783,784,07-09-2022,Vadapav
+784,785,12-07-2022,Aalopuri
+785,786,3/13/2023,Sandwich
+786,787,3/25/2023,Aalopuri
+787,788,8/13/2022,Sugarcane juice
+788,789,08-03-2022,Sugarcane juice
+789,790,7/20/2022,Panipuri
+790,791,04-07-2022,Vadapav
+791,792,2/25/2023,Vadapav
+792,793,8/30/2022,Sandwich
+793,794,10-02-2022,Sugarcane juice
+794,795,01-10-2023,Vadapav
+795,796,6/25/2022,Sugarcane juice
+796,797,11/26/2022,Cold coffee
+797,798,5/22/2022,Frankie
+798,799,01-11-2023,Panipuri
+799,800,11-06-2022,Cold coffee
+800,801,4/28/2022,Aalopuri
+801,802,1/23/2023,Sandwich
+802,803,8/27/2022,Vadapav
+803,804,10-11-2022,Cold coffee
+804,805,05-08-2022,Sugarcane juice
+805,806,5/23/2022,Vadapav
+806,807,6/13/2022,Frankie
+807,808,9/21/2022,Panipuri
+808,809,12-12-2022,Panipuri
+809,810,12/27/2022,Vadapav
+810,811,03-02-2023,Aalopuri
+811,812,08-08-2022,Panipuri
+812,813,10/13/2022,Panipuri
+813,814,10-05-2022,Vadapav
+814,815,4/20/2022,Cold coffee
+815,816,01-11-2023,Sugarcane juice
+816,817,5/21/2022,Aalopuri
+817,818,2/28/2023,Frankie
+818,819,10-12-2022,Vadapav
+819,820,2/24/2023,Aalopuri
+820,821,7/24/2022,Aalopuri
+821,822,6/17/2022,Panipuri
+822,823,2/13/2023,Panipuri
+823,824,1/18/2023,Vadapav
+824,825,10/30/2022,Panipuri
+825,826,12-02-2022,Sandwich
+826,827,01-06-2023,Sandwich
+827,828,8/18/2022,Panipuri
+828,829,9/19/2022,Cold coffee
+829,830,11/28/2022,Cold coffee
+830,831,08-01-2022,Frankie
+831,832,06-06-2022,Sugarcane juice
+832,833,09-01-2022,Panipuri
+833,834,5/25/2022,Sugarcane juice
+834,835,9/27/2022,Sugarcane juice
+835,836,8/31/2022,Vadapav
+836,837,5/19/2022,Aalopuri
+837,838,7/31/2022,Cold coffee
+838,839,05-08-2022,Sugarcane juice
+839,840,2/18/2023,Cold coffee
+840,841,02-03-2023,Vadapav
+841,842,5/25/2022,Panipuri
+842,843,07-04-2022,Sugarcane juice
+843,844,05-04-2022,Sugarcane juice
+844,845,07-01-2022,Cold coffee
+845,846,4/20/2022,Aalopuri
+846,847,8/14/2022,Panipuri
+847,848,11-10-2022,Frankie
+848,849,11-03-2022,Cold coffee
+849,850,8/20/2022,Vadapav
+850,851,1/28/2023,Aalopuri
+851,852,05-05-2022,Sugarcane juice
+852,853,2/17/2023,Cold coffee
+853,854,10/14/2022,Cold coffee
+854,855,10/23/2022,Vadapav
+855,856,05-04-2022,Aalopuri
+856,857,11-08-2022,Sugarcane juice
+857,858,11/22/2022,Cold coffee
+858,859,10-08-2022,Sandwich
+859,860,7/16/2022,Cold coffee
+860,861,1/24/2023,Sugarcane juice
+861,862,03-10-2023,Frankie
+862,863,09-08-2022,Frankie
+863,864,8/20/2022,Cold coffee
+864,865,1/23/2023,Sugarcane juice
+865,866,8/13/2022,Frankie
+866,867,1/26/2023,Frankie
+867,868,8/17/2022,Aalopuri
+868,869,6/26/2022,Panipuri
+869,870,10/31/2022,Cold coffee
+870,871,12-07-2022,Vadapav
+871,872,7/14/2022,Sandwich
+872,873,05-09-2022,Sugarcane juice
+873,874,05-09-2022,Cold coffee
+874,875,08-05-2022,Vadapav
+875,876,06-10-2022,Cold coffee
+876,877,10/27/2022,Sugarcane juice
+877,878,08-12-2022,Sandwich
+878,879,11-06-2022,Cold coffee
+879,880,6/25/2022,Sugarcane juice
+880,881,5/25/2022,Sandwich
+881,882,4/23/2022,Panipuri
+882,883,8/24/2022,Aalopuri
+883,884,03-01-2023,Vadapav
+884,885,10/16/2022,Sugarcane juice
+885,886,7/21/2022,Sugarcane juice
+886,887,10/24/2022,Aalopuri
+887,888,09-05-2022,Vadapav
+888,889,04-12-2022,Vadapav
+889,890,03-03-2023,Sugarcane juice
+890,891,12/27/2022,Cold coffee
+891,892,7/14/2022,Sugarcane juice
+892,893,7/13/2022,Sugarcane juice
+893,894,3/19/2023,Sandwich
+894,895,01-03-2023,Sugarcane juice
+895,896,10/30/2022,Aalopuri
+896,897,8/22/2022,Aalopuri
+897,898,03-02-2023,Frankie
+898,899,1/24/2023,Aalopuri
+899,900,12-07-2022,Sugarcane juice
+900,901,12/24/2022,Vadapav
+901,902,11/23/2022,Frankie
+902,903,01-01-2023,Aalopuri
+903,904,03-12-2023,Aalopuri
+904,905,12/13/2022,Frankie
+905,906,04-04-2022,Sandwich
+906,907,10/19/2022,Cold coffee
+907,908,03-06-2023,Sandwich
+908,909,2/21/2023,Cold coffee
+909,910,10-09-2022,Panipuri
+910,911,04-09-2022,Sandwich
+911,912,9/17/2022,Aalopuri
+912,913,2/15/2023,Frankie
+913,914,03-01-2023,Sandwich
+914,915,10-07-2022,Cold coffee
+915,916,11/17/2022,Cold coffee
+916,917,5/15/2022,Vadapav
+917,918,11-12-2022,Panipuri
+918,919,01-03-2023,Vadapav
+919,920,07-12-2022,Frankie
+920,921,9/21/2022,Vadapav
+921,922,6/13/2022,Frankie
+922,923,5/30/2022,Cold coffee
+923,924,12/17/2022,Panipuri
+924,925,04-10-2022,Frankie
+925,926,2/27/2023,Frankie
+926,927,12-02-2022,Cold coffee
+927,928,04-07-2022,Sandwich
+928,929,06-06-2022,Frankie
+929,930,11/27/2022,Sugarcane juice
+930,931,6/26/2022,Aalopuri
+931,932,10/18/2022,Sandwich
+932,933,1/21/2023,Sugarcane juice
+933,934,9/19/2022,Cold coffee
+934,935,2/17/2023,Sandwich
+935,936,08-10-2022,Panipuri
+936,937,6/22/2022,Panipuri
+937,938,08-10-2022,Sugarcane juice
+938,939,2/19/2023,Vadapav
+939,940,02-07-2023,Sugarcane juice
+940,941,02-10-2023,Cold coffee
+941,942,7/20/2022,Frankie
+942,943,6/30/2022,Vadapav
+943,944,05-12-2022,Aalopuri
+944,945,5/15/2022,Cold coffee
+945,946,2/21/2023,Sandwich
+946,947,8/16/2022,Aalopuri
+947,948,1/16/2023,Sandwich
+948,949,01-07-2023,Panipuri
+949,950,9/25/2022,Frankie
+950,951,11-11-2022,Panipuri
+951,952,9/24/2022,Aalopuri
+952,953,11-10-2022,Sandwich
+953,954,1/31/2023,Aalopuri
+954,955,1/27/2023,Sugarcane juice
+955,956,4/30/2022,Frankie
+956,957,02-08-2023,Panipuri
+957,958,5/22/2022,Sandwich
+958,959,11/28/2022,Vadapav
+959,960,08-12-2022,Sugarcane juice
+960,961,3/14/2023,Frankie
+961,962,5/18/2022,Frankie
+962,963,10-05-2022,Vadapav
+963,964,05-07-2022,Cold coffee
+964,965,10-08-2022,Frankie
+965,966,3/19/2023,Panipuri
+966,967,6/29/2022,Cold coffee
+967,968,08-09-2022,Cold coffee
+968,969,11-06-2022,Cold coffee
+969,970,11/21/2022,Aalopuri
+970,971,10-02-2022,Frankie
+971,972,03-11-2023,Aalopuri
+972,973,06-07-2022,Sugarcane juice
+973,974,1/28/2023,Vadapav
+974,975,1/15/2023,Aalopuri
+975,976,4/17/2022,Sugarcane juice
+976,977,01-05-2023,Aalopuri
+977,978,10-08-2022,Frankie
+978,979,5/21/2022,Aalopuri
+979,980,6/20/2022,Vadapav
+980,981,1/22/2023,Panipuri
+981,982,3/30/2023,Sugarcane juice
+982,983,3/17/2023,Cold coffee
+983,984,01-07-2023,Frankie
+984,985,6/14/2022,Frankie
+985,986,4/30/2022,Sugarcane juice
+986,987,01-04-2023,Vadapav
+987,988,01-03-2023,Frankie
+988,989,10-11-2022,Cold coffee
+989,990,11/24/2022,Vadapav
+990,991,1/18/2023,Sandwich
+991,992,10/21/2022,Sandwich
+992,993,7/17/2022,Frankie
+993,994,11-01-2022,Panipuri
+994,995,6/18/2022,Sugarcane juice
+995,996,3/19/2023,Frankie
+996,997,9/20/2022,Sandwich
+997,998,1/26/2023,Sandwich
+998,999,8/27/2022,Panipuri
+999,1000,5/29/2022,Aalopuri

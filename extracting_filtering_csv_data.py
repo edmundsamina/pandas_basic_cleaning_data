@@ -2,7 +2,8 @@ import pandas as pd
 
 # using pandas .loc to filter data by column and rows => .loc[row, column]
 
-def seperate_transactions(read_file_name, write_file_name, filter_condition=None, column_names_list=None):
+# Reusable function to extract, transform and load data using .loc[]
+def seperate_transactions_with_loc(read_file_name, write_file_name, filter_condition=None, column_names_list=None):
     # Read the data
     raw_data = pd.read_csv(read_file_name)
     # Clean the data by column, and filter_value 
@@ -16,9 +17,19 @@ def seperate_transactions(read_file_name, write_file_name, filter_condition=None
     cleaned_data.to_csv(write_file_name)
 
 
-filter = ['item_type', 'Beverages']
-only_columns = ['item_name', 'transaction_amount']
 
-seperate_transactions('fast_food_sales.csv', 'test.csv', filter, only_columns)
+# Reusable function to extract, transform and load data using .iloc[]
+def seperate_transactions_with_iloc(read_file_name, write_file_name, row_index=None, column_index=None):
+    raw_data = pd.read_csv(read_file_name)
+    # Clean the data by column, and filter_value 
+    if row_index is None:
+        cleaned_data = raw_data.iloc[:, column_index[0]: column_index[1]]
+    elif column_index is None:
+        cleaned_data = raw_data.iloc[row_index[0]:row_index[1], :]
+    # Write the data to a new file
+    cleaned_data.to_csv(write_file_name)
 
+
+
+seperate_transactions_with_iloc('fast_food_sales.csv', 'test2.csv', column_index=[0, 3])
 
