@@ -1,5 +1,7 @@
 import pandas as pd
 
+# using pandas .loc to filter data by column and rows => .loc[row, column]
+
 def seperate_transactions(read_file_name, write_file_name, filter_condition=None, column_names_list=None):
     # Read the data
     raw_data = pd.read_csv(read_file_name)
