@@ -30,6 +30,11 @@ def seperate_transactions_with_iloc(read_file_name, write_file_name, row_index=N
     cleaned_data.to_csv(write_file_name)
 
 
+def largest_spends(nth_rows, column_name, file_name):
+    raw_data = pd.read_csv(file_name)
+    print(raw_data.nlargest(nth_rows, [column_name]))
+
+
 
 seperate_transactions_with_iloc('fast_food_sales.csv', 'test2.csv', column_index=[0, 3])
-
+largest_spends(5, 'transaction_amount', 'fast_food_sales.csv' )
